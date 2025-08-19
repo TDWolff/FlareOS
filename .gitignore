@@ -1,7 +1,6 @@
 *.o
 *.elf
 *.img
-*.iso
 *.a
 *.exe
 *~
